@@ -74,6 +74,7 @@ A personal collection of recipes in standardized markdown format.
 
 #### Pork
 - [Filipino Adobo Pork Ribs](recipes/mains/pork/filipino-adobo-pork-ribs.md)
+- [Instant Pot Balsamic Pork Tenderloin](recipes/mains/pork/instant-pot-balsamic-pork-tenderloin.md)
 
 #### Pizza
 - [Pizza Pockets](recipes/mains/pizza/pizza-pockets.md)
