@@ -15,6 +15,7 @@ A personal collection of recipes in standardized markdown format.
 - [Bacon Cheddar Cheese Bread](recipes/breads/bacon-cheddar-cheese-bread.md)
 - [Caramelized Onion Rye Babka](recipes/breads/caramelized-onion-rye-babka.md)
 - [Chocolate Babka](recipes/breads/chocolate-babka.md)
+- [Garlic Herb Rolls](recipes/breads/garlic-herb-rolls.md)
 - [Blueberry Yogurt Loaf](recipes/breads/blueberry-yogurt-loaf.md)
 - [Homemade Bread](recipes/breads/homemade-bread.md)
 - [Soft Homemade Dinner Rolls](recipes/breads/soft-dinner-rolls.md)
