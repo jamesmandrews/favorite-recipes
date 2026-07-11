@@ -15,35 +15,35 @@
 ## Ingredients
 
 ### Filling
-| Ingredient | Amount |
-|------------|--------|
-| Avocado oil | 1 tbsp (15ml) |
-| Ground chicken | 1.5 lb (680g) |
-| Yellow onion, small dice | 1 |
-| Bell pepper, small dice | 1 |
-| Fresh jalapeño, seeded and minced (optional) | 1 |
-| Garlic, finely minced | 4 cloves |
-| Cumin | ½ tsp (1g) |
-| Paprika | ½ tsp (1g) |
-| Salt | ½ tsp (3g) |
-| Pepper | ¼ tsp (0.5g) |
-| Granulated garlic | ¼ tsp (0.5g) |
-| Chicken stock | ¼ cup (60ml) |
-| Crushed tomatoes | ½ can (7 oz / 200g) |
+| Ingredient | Imperial | Metric |
+|------------|----------|--------|
+| Avocado oil | 1 tbsp | 15 ml |
+| Ground chicken | 1.5 lb | 680 g |
+| Yellow onion, small dice | 1 | 1 |
+| Bell pepper, small dice | 1 | 1 |
+| Fresh jalapeño, seeded and minced (optional) | 1 | 1 |
+| Garlic, finely minced | 4 cloves | 4 cloves |
+| Cumin | ½ tsp | 1 g |
+| Paprika | ½ tsp | 1 g |
+| Salt | ½ tsp | 3 g |
+| Pepper | ¼ tsp | 0.5 g |
+| Granulated garlic | ¼ tsp | 0.5 g |
+| Chicken stock | ¼ cup | 60 ml |
+| Crushed tomatoes | ½ can (7 oz) | ½ can (200 g) |
 
 ### Assembly
-| Ingredient | Amount |
-|------------|--------|
-| Large flour tortillas | 8 |
-| Shredded Monterey Jack or Queso Fresco | 1 cup (115g) |
+| Ingredient | Imperial | Metric |
+|------------|----------|--------|
+| Large flour tortillas | 8 | 8 |
+| Shredded Monterey Jack or Queso Fresco | 1 cup | 115 g |
 
 ### Fresh Garnish (add when serving, not before freezing)
-| Ingredient | Amount |
-|------------|--------|
-| Avocado | as desired |
-| Sour cream | as desired |
-| Fresh cilantro, chopped | as desired |
-| Lime wedges | as desired |
+| Ingredient | Imperial | Metric |
+|------------|----------|--------|
+| Avocado | as desired | as desired |
+| Sour cream | as desired | as desired |
+| Fresh cilantro, chopped | as desired | as desired |
+| Lime wedges | as desired | as desired |
 
 ## Instructions
 

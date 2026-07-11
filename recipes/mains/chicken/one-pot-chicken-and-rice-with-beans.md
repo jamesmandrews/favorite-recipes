@@ -12,25 +12,25 @@
 
 ## Ingredients
 
-| Ingredient | Amount |
-|------------|--------|
-| Canned cooked chicken breast, drained | 1 can, 12.4 oz (352g) |
-| Long grain white rice, dry | 1 cup (185g) |
-| Canned black beans, drained and rinsed | 1 can, 15 oz (425g) |
-| Salsa (mild or medium) | 1 cup (240ml) |
-| Chicken broth | 1 cup (240ml) |
-| Water | ½ cup (120ml) |
-| Fresh garlic cloves, minced | 3 cloves |
-| Small yellow onion, diced | 1 |
-| Butter | 1 tbsp (14g) |
-| Olive oil | 1 tbsp (15ml) |
-| Cumin | ½ tsp (1g) |
-| Dried oregano | ⅓ tsp |
-| Bay leaf | 1 |
-| Salt | ¾ tsp (4g) |
-| Black pepper | ⅓ tsp |
-| Butter (finishing) | 1 tbsp (14g) |
-| Shredded cheese (optional topping) | ½ cup (55g) |
+| Ingredient | Imperial | Metric |
+|------------|----------|--------|
+| Canned cooked chicken breast, drained | 1 can (12.4 oz) | 1 can (352 g) |
+| Long grain white rice, dry | 1 cup | 185 g |
+| Canned black beans, drained and rinsed | 1 can (15 oz) | 1 can (425 g) |
+| Salsa (mild or medium) | 1 cup | 240 ml |
+| Chicken broth | 1 cup | 240 ml |
+| Water | ½ cup | 120 ml |
+| Fresh garlic cloves, minced | 3 cloves | 3 cloves |
+| Small yellow onion, diced | 1 | 1 |
+| Butter | 1 tbsp | 14 g |
+| Olive oil | 1 tbsp | 15 ml |
+| Cumin | ½ tsp | 1 g |
+| Dried oregano | ⅓ tsp | ⅓ tsp |
+| Bay leaf | 1 | 1 |
+| Salt | ¾ tsp | 4 g |
+| Black pepper | ⅓ tsp | ⅓ tsp |
+| Butter (finishing) | 1 tbsp | 14 g |
+| Shredded cheese (optional topping) | ½ cup | 55 g |
 
 ## Instructions
 

@@ -11,17 +11,17 @@
 
 ## Ingredients
 
-| Ingredient | Amount |
-|------------|--------|
-| Large eggs | 2 |
-| Large egg yolks | 4 |
-| Granulated sugar | 1¼ cups (250g) |
-| Heavy whipping cream | 2 cups (480ml) |
-| Half and half | 2 cups (480ml) |
-| Dutch process cocoa powder | ¼ cup (25g) |
-| Semi-sweet or bittersweet chocolate, chopped | 6 oz (170g) |
-| All-purpose flour | pinch |
-| Pure vanilla extract | 1 tsp (5ml) |
+| Ingredient | Imperial | Metric |
+|------------|----------|--------|
+| Large eggs | 2 | 2 |
+| Large egg yolks | 4 | 4 |
+| Granulated sugar | 1¼ cups | 250 g |
+| Heavy whipping cream | 2 cups | 480 ml |
+| Half and half | 2 cups | 480 ml |
+| Dutch process cocoa powder | ¼ cup | 25 g |
+| Semi-sweet or bittersweet chocolate, chopped | 6 oz | 170 g |
+| All-purpose flour | pinch | pinch |
+| Pure vanilla extract | 1 tsp | 5 ml |
 
 ## Instructions
 

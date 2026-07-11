@@ -11,16 +11,16 @@
 
 ## Ingredients
 
-| Ingredient | Amount |
-|------------|--------|
-| Large eggs | 2 |
-| Large egg yolks | 4 |
-| Granulated sugar | 1½ cups (300g) |
-| Heavy whipping cream | 2 cups (480ml) |
-| Half and half | 2 cups (480ml) |
-| All-purpose flour | pinch |
-| Pure vanilla extract | 1 tbsp (15ml) |
-| Vanilla paste | 2 tbsp (30ml) |
+| Ingredient | Imperial | Metric |
+|------------|----------|--------|
+| Large eggs | 2 | 2 |
+| Large egg yolks | 4 | 4 |
+| Granulated sugar | 1½ cups | 300 g |
+| Heavy whipping cream | 2 cups | 480 ml |
+| Half and half | 2 cups | 480 ml |
+| All-purpose flour | pinch | pinch |
+| Pure vanilla extract | 1 tbsp | 15 ml |
+| Vanilla paste | 2 tbsp | 30 ml |
 
 ## Instructions
 

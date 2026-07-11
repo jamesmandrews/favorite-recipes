@@ -16,30 +16,30 @@
 ## Ingredients
 
 ### Chicken
-| Ingredient | Amount |
-|------------|--------|
-| Butter | 1 tbsp (14g) |
-| Avocado oil | 1 tbsp (15ml) |
-| Thin chicken breast cutlets (milanesa), or 3 whole breasts halved crosswise | 1.5 lb (680g) |
-| Bell pepper, sliced | 1 |
-| Yellow onion, halved and sliced | 1 |
-| Fresh jalapeño (optional, see notes) | ½ to 1 whole |
-| Salt | ½ tsp (3g) |
-| Garlic, finely minced | 4 cloves |
-| Chicken stock | 1 cup (240ml) |
-| Crushed tomatoes (14 oz / 400g can) | 1 can |
-| Paprika | ½ tsp (1g) |
-| Cumin | ½ tsp (1g) |
-| Salt, pepper, and granulated garlic | to taste |
+| Ingredient | Imperial | Metric |
+|------------|----------|--------|
+| Butter | 1 tbsp | 14 g |
+| Avocado oil | 1 tbsp | 15 ml |
+| Thin chicken breast cutlets (milanesa), or 3 whole breasts halved crosswise | 1.5 lb | 680 g |
+| Bell pepper, sliced | 1 | 1 |
+| Yellow onion, halved and sliced | 1 | 1 |
+| Fresh jalapeño (optional, see notes) | ½ to 1 whole | ½ to 1 whole |
+| Salt | ½ tsp | 3 g |
+| Garlic, finely minced | 4 cloves | 4 cloves |
+| Chicken stock | 1 cup | 240 ml |
+| Crushed tomatoes | 1 can (14 oz) | 1 can (400 g) |
+| Paprika | ½ tsp | 1 g |
+| Cumin | ½ tsp | 1 g |
+| Salt, pepper, and granulated garlic | to taste | to taste |
 
 ### Garnish
-| Ingredient | Amount |
-|------------|--------|
-| Avocado | as desired |
-| Monterey Jack or Queso Fresco | as desired |
-| Sour cream | as desired |
-| Fresh cilantro, chopped | as desired |
-| Lime wedges | as desired |
+| Ingredient | Imperial | Metric |
+|------------|----------|--------|
+| Avocado | as desired | as desired |
+| Monterey Jack or Queso Fresco | as desired | as desired |
+| Sour cream | as desired | as desired |
+| Fresh cilantro, chopped | as desired | as desired |
+| Lime wedges | as desired | as desired |
 
 ## Instructions
 

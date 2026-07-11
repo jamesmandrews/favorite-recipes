@@ -11,15 +11,15 @@
 
 ## Ingredients
 
-| Ingredient | Amount |
-|------------|--------|
-| Warm water | 2½ cups (600ml) |
-| Active dry yeast | 2 tbsp (20g) |
-| Salted butter, melted | ½ cup (115g) |
-| Salt | 2 tsp (10g) |
-| Sugar | ½ cup (100g) |
-| Egg | 1 |
-| All-purpose flour | 7 cups (875g) |
+| Ingredient | Imperial | Metric |
+|------------|----------|--------|
+| Warm water | 2½ cups | 600 ml |
+| Active dry yeast | 2 tbsp | 20 g |
+| Salted butter, melted | ½ cup | 115 g |
+| Salt | 2 tsp | 10 g |
+| Sugar | ½ cup | 100 g |
+| Egg | 1 | 1 |
+| All-purpose flour | 7 cups | 875 g |
 
 ## Instructions
 
